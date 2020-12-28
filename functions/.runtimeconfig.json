@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "watcher-31c68",
+    "databaseURL": "https://watcher-31c68.firebaseio.com",
+    "storageBucket": "watcher-31c68.appspot.com",
+    "locationId": "us-central"
+  }
+}
